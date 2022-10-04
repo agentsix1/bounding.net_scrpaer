@@ -1,0 +1,4 @@
+SUPERSPEED DEF.scx  https://bounding.net/api/maps/9c461326b136c0260dd3754e6af6b0aa8e3af12afb93fb8138aa9f48501b6273
+bazoopy.scx  https://bounding.net/api/maps/9c461326b136c0260dd3754e6af6b0aa8e3af12afb93fb8138aa9f48501b6273
+bazoopy (1).scx  https://bounding.net/api/maps/9c461326b136c0260dd3754e6af6b0aa8e3af12afb93fb8138aa9f48501b6273
+SUPERSPEED DEF_53V.scx  https://bounding.net/api/maps/9c461326b136c0260dd3754e6af6b0aa8e3af12afb93fb8138aa9f48501b6273

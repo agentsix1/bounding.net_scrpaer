@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bounding scraper", "bounding scraper\bounding scraper.csproj", "{748F3C3F-04E8-4EB1-B702-226BD28D209A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{748F3C3F-04E8-4EB1-B702-226BD28D209A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748F3C3F-04E8-4EB1-B702-226BD28D209A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748F3C3F-04E8-4EB1-B702-226BD28D209A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748F3C3F-04E8-4EB1-B702-226BD28D209A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEE895EC-A2DB-44EA-BB23-B2F6EE0AEF78}
+	EndGlobalSection
+EndGlobal

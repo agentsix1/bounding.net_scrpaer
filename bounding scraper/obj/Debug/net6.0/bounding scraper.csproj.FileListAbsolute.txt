@@ -1,0 +1,17 @@
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\bin\Debug\net6.0\bounding scraper.exe
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\bin\Debug\net6.0\bounding scraper.deps.json
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\bin\Debug\net6.0\bounding scraper.runtimeconfig.json
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\bin\Debug\net6.0\bounding scraper.dll
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\bin\Debug\net6.0\ref\bounding scraper.dll
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\bin\Debug\net6.0\bounding scraper.pdb
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\obj\Debug\net6.0\bounding scraper.csproj.AssemblyReference.cache
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\obj\Debug\net6.0\bounding scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\obj\Debug\net6.0\bounding scraper.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\obj\Debug\net6.0\bounding scraper.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\obj\Debug\net6.0\bounding scraper.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\obj\Debug\net6.0\bounding scraper.dll
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\obj\Debug\net6.0\ref\bounding scraper.dll
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\obj\Debug\net6.0\bounding scraper.pdb
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\obj\Debug\net6.0\bounding scraper.genruntimeconfig.cache
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Jeremy\source\repos\bounding scraper\bounding scraper\obj\Debug\net6.0\bounding scraper.csproj.CopyComplete
